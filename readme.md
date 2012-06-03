@@ -12,6 +12,10 @@
 (but you can use it for whatever - see _license.txt_)
 
 
+### Nuget
+    Install-Package FMUtils.WinApi
+
+
 ### State of the Code
 - Mostly operational
 - Relatively unorganized, but roughly divided by how I happened to end up using it

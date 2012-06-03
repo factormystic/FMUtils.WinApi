@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FMUtils.WinApi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A collection of useful P/Invoke wrappers and assist methods")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("factormystic.net")]
 [assembly: AssemblyProduct("FMUtils.WinApi")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.8.2338")]
-[assembly: AssemblyFileVersion("1.0.8.2338")]
+[assembly: AssemblyVersion("1.0.12.2341")]
+[assembly: AssemblyFileVersion("1.0.12.2341")]

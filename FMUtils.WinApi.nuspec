@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/factormystic/FMUtils.WinApi/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/factormystic/FMUtils.WinApi#readme</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial package release</releaseNotes>
+    <copyright>Copyright 2010</copyright>
+    <tags>Win32 WinApi pinvoke dwm</tags>
+  </metadata>
+</package>
