@@ -560,6 +560,8 @@ namespace FMUtils.WinApi
         public const UInt32 WS_EX_CLIENTEDGE = 0x0200;
         public const UInt32 WS_EX_OVERLAPPEDWINDOW = (WS_EX_WINDOWEDGE | WS_EX_CLIENTEDGE);
         public const UInt32 WS_EX_DLGMODALFRAME = 0x01;
+        public const UInt32 WS_EX_TRANSPARENT = 0x20;
+        public const UInt32 WS_EX_LAYERED = 0x80000
 
         public const uint GA_PARENT = 1;
         public const uint GA_ROOT = 2;
